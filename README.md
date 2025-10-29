@@ -14,6 +14,10 @@ Arguments:
 [switch]Verbose: Adds some additional logging.
 
 Inspiration and code snippets taken from the following projects. Thank you!
+
+
 https://github.com/LSPosed/MagiskOnWSALocal
+
 https://github.com/StoreDev/StoreLib
+
 https://github.com/Andrew-J-Larson/OS-Scripts/blob/main/Windows/Wrapper-Functions/Download-AppxPackage-Function.ps1
